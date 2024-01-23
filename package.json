@@ -3,7 +3,7 @@
   "displayName": "Lara Extension Pack",
   "description": "PHP Laravel extensions pack for VSCode",
   "publisher": "EdySpider",
-  "icon": "logo.png",
+  "icon": "icon.png",
   "author": {
 		"name": "EdySpider",
 		"url": "https://github.com/edyspider"
@@ -47,5 +47,9 @@
     "thekalinga.bootstrap4-vscode",
     "xdebug.php-debug",
     "zobo.php-intellisense"
-  ]
+  ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/edyspider/LaraExtensionPack"
+  }
 }
