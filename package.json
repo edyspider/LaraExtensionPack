@@ -1,0 +1,51 @@
+{
+  "name": "laraextensionpack",
+  "displayName": "Lara Extension Pack",
+  "description": "PHP Laravel extensions pack for VSCode",
+  "publisher": "EdySpider",
+  "icon": "logo.png",
+  "author": {
+		"name": "EdySpider",
+		"url": "https://github.com/edyspider"
+	},
+  "version": "1.0.0",
+  "license": "MIT",
+    "bugs": {
+		"url": "https://github.com/edyspider/LaraExtensionPack/issues"
+	},
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "adrianwilczynski.alpine-js-intellisense",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "amirmarmul.laravel-blade-vscode",
+    "austenc.laravel-blade-spacer",
+    "bmewburn.vscode-intelephense-client",
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.npm-intellisense",
+    "cierra.livewire-vscode",
+    "codingyu.laravel-goto-view",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "GitHub.vscode-pull-request-github",
+    "glitchbl.laravel-create-view",
+    "heybourn.headwind",
+    "IHunte.laravel-blade-wrapper",
+    "mhutchie.git-graph",
+    "mikestead.dotenv",
+    "naoray.laravel-goto-components",
+    "onecentlin.laravel5-snippets",
+    "onecentlin.laravel-blade",
+    "pgl.laravel-jump-controller",
+    "ryannaddy.laravel-artisan",
+    "shufo.vscode-blade-formatter",
+    "thekalinga.bootstrap4-vscode",
+    "xdebug.php-debug",
+    "zobo.php-intellisense"
+  ]
+}
