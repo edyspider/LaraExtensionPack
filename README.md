@@ -1,4 +1,4 @@
-![Banner](icon.png)
+![Banner](img/banner.png)
 
 # Lara Extension Pack
 
