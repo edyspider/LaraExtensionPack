@@ -3,12 +3,12 @@
   "displayName": "Lara Extension Pack",
   "description": "PHP Laravel extensions pack for VSCode",
   "publisher": "EdySpider",
-  "icon": "icon.png",
+  "icon": "img/icon.png",
   "author": {
 		"name": "EdySpider",
 		"url": "https://github.com/edyspider"
 	},
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
     "bugs": {
 		"url": "https://github.com/edyspider/LaraExtensionPack/issues"
